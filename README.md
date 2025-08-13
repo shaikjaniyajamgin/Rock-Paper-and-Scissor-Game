@@ -3,7 +3,7 @@
 A fun, interactive **Rock Paper Scissors** game built with **HTML, CSS, and JavaScript**.  
 Includes sound effects, a scoreboard, confetti animations, and a dark mode toggle.  
 
-![Game Screenshot](rps.png)
+![Game Screenshot](rps.PNG)
 
 ## ✨ Features
 - 🪨📄✂️ **Rock, Paper, Scissors Gameplay**
